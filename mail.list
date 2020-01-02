@@ -1,0 +1,5 @@
+# Mail
+host, imap.gmail.com, proxy
+host, smtp.gmail.com, proxy
+host, imap-mail.outlook.com, proxy
+host, smtp-mail.outlook.com, proxy
