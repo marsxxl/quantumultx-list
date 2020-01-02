@@ -1,0 +1,5 @@
+# Twitter
+host-keyword, twitter, proxy
+host-suffix, twimg.co, proxy
+host-suffix, twimg.com, proxy
+host-suffix, twitpic.com, proxy
