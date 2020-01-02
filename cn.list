@@ -1,0 +1,35 @@
+# China Apps
+user-agent, MApi*, direct
+user-agent, MicroMessenger*, direct
+user-agent, WeChat*, direct
+# Ali
+host-keyword, alipay, direct
+host-keyword, taobao, direct
+host-keyword, alicdn, direct
+host-keyword, aliyun, direct
+host-suffix, jd.com, direct
+host-suffix, mi.com, direct
+host-suffix, qq.com, direct
+host-suffix, tmall.com, direct
+host-suffix, youku.com, direct
+ip-cidr, 198.11.188.0/25, direct
+ip-cidr, 198.11.136.0/24, direct
+# Misc
+host-suffix, alibaba.com, direct
+host-suffix, bootcss.com, direct
+host-suffix, biquge.com.tw, direct
+host-suffix, ip.bjango.com, direct
+host-suffix, ip.sb, direct
+host-suffix, loli.net, direct
+host-suffix, maoyun.tv, direct
+host-suffix, mmstat.com, direct
+host-suffix, moke.com, direct
+host-suffix, sb.sb, direct
+host-suffix, servicewechat.com, direct
+host-suffix, sm.ms, direct
+host-suffix, u.nu, direct
+host-suffix, xclient.info, direct
+host-suffix, zimuzu.tv, direct
+host-suffix, zmzapi.com, direct
+host-suffix, zmzapi.net, direct
+host-suffix, zmzfile.com, direct
