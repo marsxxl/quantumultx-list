@@ -1,13 +1,3 @@
-# Netflix
-user-agent, Argo*, proxy
-host-suffix, fast.com, proxy
-host-suffix, netflix.com, proxy
-host-suffix, netflix.net, proxy
-host-suffix, nflxext.com, proxy
-host-suffix, nflximg.com, proxy
-host-suffix, nflximg.net, proxy
-host-suffix, nflxso.net, proxy
-host-suffix, nflxvideo.net, proxy
 # YouTube
 host, youtubei.googleapis.com, proxy
 host-suffix, youtube.com, proxy
