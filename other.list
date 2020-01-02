@@ -1,0 +1,9 @@
+# Other
+host, api.imgur.com, proxy
+host, plugins.jetbrains.com, proxy
+host-keyword, officecdn, proxy
+host-suffix, scomper.me, proxy
+host-suffix, ssl-images-amazon.com, proxy
+host-suffix, tonymacx86.com, proxy
+host-suffix, renzhe.cloud, proxy
+host-suffix, xmind.cn, proxy
