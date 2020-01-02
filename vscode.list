@@ -1,0 +1,11 @@
+# VS Code
+host-suffix, codecov.io, proxy
+host-suffix, travis-ci.org, proxy
+host-suffix, vscode-update.azurewebsites.net, proxy
+host-suffix, vscode.blob.core.windows.net, proxy
+host-suffix, marketplace.visualstudio.com, proxy
+host-suffix, gallerycdn.vsassets.io, proxy
+host-suffix, rink.hockeyapp.net, proxy
+host-suffix, vscode.search.windows.net, proxy
+host-suffix, raw.githubusercontent.com, proxy
+host-suffix, vsmarketplacebadge.apphb.com, proxy
