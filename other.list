@@ -1,10 +1,14 @@
 # Other
-host, api.imgur.com, proxy
+host, i.loli.net, proxy
+host, ip.bjango.com, proxy
 host, plugins.jetbrains.com, proxy
-host, zh.ifixit.com, proxy
 host-keyword, officecdn, proxy
+host-suffix, coolshell.cn, proxy
+host-suffix, duyaoss.com, proxy
+host-suffix, imgur.com, proxy
+host-suffix, v2ex.com, proxy
 host-suffix, scomper.me, proxy
 host-suffix, ssl-images-amazon.com, proxy
-host-suffix, tonymacx86.com, proxy
 host-suffix, renzhe.cloud, proxy
 host-suffix, xmind.cn, proxy
+host-suffix, zh.ifixit.com, proxy
