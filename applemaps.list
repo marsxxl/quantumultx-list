@@ -1,9 +1,9 @@
-user-agent, com.apple.geod*
-user-agent, com.apple.Maps
-user-agent, geod*
-user-agent, locationd*
-user-agent, Maps*
-host,gs-loc.apple.com
-host-suffix, lcdn-locator.apple.com
-host-suffix, lcdn-registration.apple.com
-host-suffix, ls.apple.com
+user-agent, com.apple.geod*, direct
+user-agent, com.apple.Maps, direct
+user-agent, geod*, direct
+user-agent, locationd*, direct
+user-agent, Maps*, direct
+host,gs-loc.apple.com, direct
+host-suffix, lcdn-locator.apple.com, direct
+host-suffix, lcdn-registration.apple.com, direct
+host-suffix, ls.apple.com, direct
