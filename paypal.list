@@ -1,0 +1,4 @@
+user-agent, PayPal*
+host-suffix, paypal.com
+host-suffix, paypal.me
+host-suffix, paypalobjects.com
