@@ -3,6 +3,7 @@ host, gspe1-ssl.ls.apple.com, proxy
 user-agent, AppleNews*, proxy
 user-agent, com.apple.news*, proxy
 host-suffix, apple.news, proxy
+host, news-assets.apple.com, proxy
 host, news-client.apple.com, proxy
 host, news-edge.apple.com, proxy
 host, news-events.apple.com, proxy
