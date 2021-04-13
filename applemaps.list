@@ -1,0 +1,9 @@
+user-agent, com.apple.geod*
+user-agent, com.apple.Maps
+user-agent, geod*
+user-agent, locationd*
+user-agent, Maps*
+host,gs-loc.apple.com
+host-suffix, lcdn-locator.apple.com
+host-suffix, lcdn-registration.apple.com
+host-suffix, ls.apple.com
