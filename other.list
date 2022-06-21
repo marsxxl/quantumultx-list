@@ -12,3 +12,29 @@ host-suffix, ssl-images-amazon.com, proxy
 host-suffix, renzhe.cloud, proxy
 host-suffix, xmind.cn, proxy
 host-suffix, zh.ifixit.com, proxy
+
+# Other
+host, ip.bjango.com
+host, plugins.jetbrains.com
+host-keyword, officecdn
+host-suffix, coolshell.cn
+host-suffix, duyaoss.com
+host-suffix, ghcr.io
+host-suffix, imgur.com
+host-suffix, loli.net
+host-suffix, okx.com
+host-suffix, pepcn.com
+host-suffix, recaptcha.net
+host-suffix, renzhe.cloud
+host-suffix, scomper.me
+host-suffix, sm.ms
+host-suffix, ssl-images-amazon.com
+host-suffix, v2ex.co
+host-suffix, v2ex.com
+host-suffix, xmind.cn
+host-suffix, zh.ifixit.com
+
+# Setapp
+host-suffix, sentry.io
+host-suffix, setapp.com
+host-suffix, devmate.com
