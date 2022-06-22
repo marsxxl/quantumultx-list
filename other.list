@@ -1,20 +1,4 @@
-# Other
-host, i.loli.net, proxy
-host, plugins.jetbrains.com, proxy
-host-keyword, officecdn, proxy
-host-suffix, coolshell.cn, proxy
-host-suffix, duyaoss.com, proxy
-host-suffix, imgur.com, proxy
-host-suffix, bjango.com, proxy
-host-suffix, v2ex.com, proxy
-host-suffix, scomper.me, proxy
-host-suffix, ssl-images-amazon.com, proxy
-host-suffix, renzhe.cloud, proxy
-host-suffix, xmind.cn, proxy
-host-suffix, zh.ifixit.com, proxy
-
-# Other
-host, ip.bjango.com
+# Others
 host, plugins.jetbrains.com
 host-keyword, officecdn
 host-suffix, coolshell.cn
