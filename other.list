@@ -1,25 +1,25 @@
 # Other
-host, ip.bjango.com
-host, plugins.jetbrains.com
-host-keyword, officecdn
-host-suffix, coolshell.cn
-host-suffix, duyaoss.com
-host-suffix, ghcr.io
-host-suffix, imgur.com
-host-suffix, loli.net
-host-suffix, okx.com
-host-suffix, pepcn.com
-host-suffix, recaptcha.net
-host-suffix, renzhe.cloud
-host-suffix, scomper.me
-host-suffix, sm.ms
-host-suffix, ssl-images-amazon.com
-host-suffix, v2ex.co
-host-suffix, v2ex.com
-host-suffix, xmind.cn
-host-suffix, zh.ifixit.com
+host, ip.bjango.com, proxy
+host, plugins.jetbrains.com, proxy
+host-keyword, officecdn, proxy
+host-suffix, coolshell.cn, proxy
+host-suffix, duyaoss.com, proxy
+host-suffix, ghcr.io, proxy
+host-suffix, imgur.com, proxy
+host-suffix, loli.net, proxy
+host-suffix, okx.com, proxy
+host-suffix, pepcn.com, proxy
+host-suffix, recaptcha.net, proxy
+host-suffix, renzhe.cloud, proxy
+host-suffix, scomper.me, proxy
+host-suffix, sm.ms, proxy
+host-suffix, ssl-images-amazon.com, proxy
+host-suffix, v2ex.co, proxy
+host-suffix, v2ex.com, proxy
+host-suffix, xmind.cn, proxy
+host-suffix, zh.ifixit.com, proxy
 
 # Setapp
-host-suffix, sentry.io
-host-suffix, setapp.com
-host-suffix, devmate.com
+host-suffix, sentry.io, proxy
+host-suffix, setapp.com, proxy
+host-suffix, devmate.com, proxy
